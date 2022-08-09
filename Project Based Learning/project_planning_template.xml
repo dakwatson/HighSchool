@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<header>
+    <title>Project Title</title>
+</header>
+<body>
+    <project>Name of Project</project>
+    <grade>Grade Level</grade>
+    <subject>Subject</subject>
+    <div type="description">
+        <head>Project Description</head>
+        <p>Write the project description here.</p>
+    </div>
+    <div type="high_impact_content">
+        <!-- High Impact Content should be the core academic standards of the project; the main focus of the project. -->
+        <head>High Impact Content</head>
+        <list>
+            <item>List academic standards here.</item>
+        </list>
+    </div>
+    <div type="supporting_content">
+        <!-- Supporting Content are academic standards that support the High Impact Content, but aren't a focus of the project. -->
+        <list>
+            <item>List Academic Standards</item>
+        </list>
+    </div>
+    <div type="high_impact_takeaways">
+        <!-- High Impact Takeaways are takeaways from the project that students can apply to other disciplines or their lives in general. -->
+        <list>
+            <item>List high impact takeaways</item>
+        </list>
+    </div>
+    <div type="umbrella_question">
+        <!-- The Umbrella Question is a one-sentence summary of the lesson in the form of a question; it should be independent of the context of the project itself, and thus applicable to a variety of situations. There is typically only one Umbrella Question per project, although there might be more than one. -->
+        <list>
+            <item>List umbrella question(s)</item>
+        </list>
+    </div>
+    <div type="learning_targets">
+        <!-- Learning Targets should adapt the High Impact Content (i.e. academic standards) into student-friendly language; this will depend on the level and sophistication of the students. -->
+        <list>
+            <item>List learning targets</item>
+        </list>
+    </div>
+</body>
