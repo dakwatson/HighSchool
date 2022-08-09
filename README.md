@@ -1,12 +1,12 @@
 # HighSchool
 Files and projects for teaching high school
 
-Current course list:
+## Current course list:
 
-English 1301 - Composition
+- English 1301 - Composition
 
-English 1302 - Writing Across the Curriculum
+- English 1302 - Writing Across the Curriculum
 
-Economics
+- Economics
 
-Principles of AAVTC
+- Principles of AAVTC
